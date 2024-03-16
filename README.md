@@ -1,4 +1,3 @@
-`#000000`
 # Mike Terrible
 ##  Hola Mundo, 
 ### Soy Mike y estoy aprendiendo a programar
